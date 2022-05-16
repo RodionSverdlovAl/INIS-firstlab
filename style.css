@@ -4,10 +4,10 @@
     padding: 0;
 }
 body{
-    background-color: rgb(5, 5, 66);
+    background-color: rgb(50, 50, 73);
 }
 header nav{
-    background-color: rgb(88, 119, 146);
+    background-color: rgb(97, 180, 252);
     width: 97%;
     height: 30px;
     padding: 20px;
@@ -41,7 +41,7 @@ header h1{
     background-color: #fff;
     font-size: 40px;
     font-weight: 300;
-    color: rgb(18, 10, 44);
+    color: rgb(50, 50, 73);
 
 }
 
@@ -79,7 +79,7 @@ footer{
     width: 100%;
 }
 footer nav{
-    background-color: rgb(5, 5, 66);
+    background-color: rgb(50, 50, 73);
     margin: 20px 0;
     cursor:pointer
 }
@@ -98,7 +98,7 @@ footer nav a{
 }
 
 main{
-    background-color: #fff;
+    background-color: rgb(149, 204, 255);
 }
 
 .wrapper{
@@ -176,10 +176,10 @@ main{
 .card button{
     margin-left: 170px;
     height: 30px;
-    width: 70px;
+    width: 90px;
     background-color: rgb(42, 42, 71);
     border-radius: 10px;
-    color: #fff;
+    color: rgb(255, 0, 0);
     border: none;
     cursor: pointer;
 }
